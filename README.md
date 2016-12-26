@@ -4,8 +4,9 @@ Programs and files made while following Java tutorials.
 
 # java-ref
 
-MyFirstJavaProgram.java - A hello world program
-AreasAndVolumes.java - A class showing a variable declaration
+MyFirstJavaProgram.java		- A hello world program
+AreasAndVolumes.java		- A class showing a variable declaration
+TernaryOperatorsDemo.java	- A program showing a ternary operator
 
 # hands-on
 
