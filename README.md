@@ -20,3 +20,6 @@ Assignments from each section
 
 Section 1: Hello, Udemy
 	Write a code that outputs "Hello, Udemy"
+Section 3: The Inventory System
+	Create an inventory system with at least 5 items and let the user select
+	the item they wish to use.
