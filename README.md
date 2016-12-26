@@ -12,6 +12,7 @@ IfExample.java				- A program showing if statements
 IfElseExample.java			- A program showing an if else statement
 NestedIfExample.java		- A program showing a nested if statement
 NestedIfElseExample.java	- A program showing a nested if else statement
+SwitchExample.java			- A program showing a switch statement
 
 # hands-on
 
