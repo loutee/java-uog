@@ -8,6 +8,7 @@ MyFirstJavaProgram.java		- A hello world program
 AreasAndVolumes.java		- A class showing a variable declaration
 TernaryOperatorsDemo.java	- A program showing a ternary operator
 DoWhileExample.java			- A program showing a do while loop
+IfExample.java				- A program showing if statements
 
 # hands-on
 
