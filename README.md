@@ -2,7 +2,7 @@
 
 Programs and files made while following Java tutorials.
 
-# ref
+# examples 
 
 MyFirstJavaProgram.java		- A hello world program
 AreasAndVolumes.java		- A class showing a variable declaration
