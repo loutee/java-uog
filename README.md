@@ -14,7 +14,8 @@ NestedIfExample.java		- A program showing a nested if statement
 NestedIfElseExample.java	- A program showing a nested if else statement
 SwitchExample.java			- A program showing a switch statement
 TestStringConcatenation1	- A program showing a string concatenation
-TestStringConcatenation2	- A program showing a string concatentation with primitive values
+TestStringConcatenation2	- A program showing a string concatenation with primitive values
+TestStringConcatenation3	- A program showing a string concatenation with concat() method
 
 # hands-on
 
