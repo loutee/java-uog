@@ -16,6 +16,7 @@ SwitchExample.java			- A program showing a switch statement
 TestStringConcatenation1	- A program showing a string concatenation
 TestStringConcatenation2	- A program showing a string concatenation with primitive values
 TestStringConcatenation3	- A program showing a string concatenation with concat() method
+StringBufferExample			- A program demonstrating the usage of a StringBuffer
 
 # hands-on
 
