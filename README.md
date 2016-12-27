@@ -13,6 +13,8 @@ IfElseExample.java			- A program showing an if else statement
 NestedIfExample.java		- A program showing a nested if statement
 NestedIfElseExample.java	- A program showing a nested if else statement
 SwitchExample.java			- A program showing a switch statement
+TestStringConcatenation1	- A program showing a string concatenation
+TestStringConcatenation2	- A program showing a string concatentation with primitive values
 
 # hands-on
 
