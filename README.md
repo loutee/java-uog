@@ -4,19 +4,20 @@ Programs and files made while following Java tutorials.
 
 # examples 
 
-MyFirstJavaProgram.java		- A hello world program
-AreasAndVolumes.java		- A class showing a variable declaration
-TernaryOperatorsDemo.java	- A program showing a ternary operator
-DoWhileExample.java			- A program showing a do while loop
-IfExample.java				- A program showing if statements
-IfElseExample.java			- A program showing an if else statement
-NestedIfExample.java		- A program showing a nested if statement
-NestedIfElseExample.java	- A program showing a nested if else statement
-SwitchExample.java			- A program showing a switch statement
-TestStringConcatenation1	- A program showing a string concatenation
-TestStringConcatenation2	- A program showing a string concatenation with primitive values
-TestStringConcatenation3	- A program showing a string concatenation with concat() method
-StringBufferExample			- A program demonstrating the usage of a StringBuffer
+MyFirstJavaProgram.java			- A hello world program
+AreasAndVolumes.java			- A class showing a variable declaration
+TernaryOperatorsDemo.java		- A program showing a ternary operator
+DoWhileExample.java				- A program showing a do while loop
+IfExample.java					- A program showing if statements
+IfElseExample.java				- A program showing an if else statement
+NestedIfExample.java			- A program showing a nested if statement
+NestedIfElseExample.java		- A program showing a nested if else statement
+SwitchExample.java				- A program showing a switch statement
+TestStringConcatenation1.java	- A program showing a string concatenation
+TestStringConcatenation2.java	- A program showing a string concatenation with primitive values
+TestStringConcatenation3.java	- A program showing a string concatenation with concat() method
+StringBufferExample.java		- A program demonstrating the usage of a StringBuffer
+TestArray.java					- A program showing an array
 
 # hands-on
 
