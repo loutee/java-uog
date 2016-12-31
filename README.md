@@ -28,3 +28,5 @@ Section 1: Hello, Udemy
 Section 3: The Inventory System
 	Create an inventory system with at least 5 items and let the user select
 	the item they wish to use.
+Section 4: Palindrome
+	Create a program that checks if the string entered by the user is a palindrome.
