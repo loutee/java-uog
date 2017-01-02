@@ -33,3 +33,5 @@ Section 3: The Inventory System
 	the item they wish to use.
 Section 4: Palindrome
 	Create a program that checks if the string entered by the user is a palindrome.
+Section 4: Grading System
+	Create a program that provides a letter grade for a scale
