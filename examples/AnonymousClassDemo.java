@@ -1,5 +1,5 @@
 // AnonymousClassDemo.java
-// toy example for anonymous class java syntax
+// Shows anonymous class java syntax
 
 public class AnonymousClassDemo {
 	public static void main(String[] args) {
