@@ -19,6 +19,7 @@ TestStringConcatenation3.java	- A program showing a string concatenation with co
 StringBufferExample.java		- A program demonstrating the usage of a StringBuffer
 TestArray.java					- A program showing an array
 BankAccount.java				- A program showing an inner class
+AnonymousClassDemo.java			- Toy example for anonymous class syntax
 
 # hands-on
 
