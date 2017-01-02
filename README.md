@@ -18,6 +18,7 @@ TestStringConcatenation2.java	- A program showing a string concatenation with pr
 TestStringConcatenation3.java	- A program showing a string concatenation with concat() method
 StringBufferExample.java		- A program demonstrating the usage of a StringBuffer
 TestArray.java					- A program showing an array
+BankAccount.java				- A program showing an inner class
 
 # hands-on
 
