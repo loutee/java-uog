@@ -2,6 +2,8 @@
 // Shows an inner class example in java
 
 public class BankAccount {
+
+	// Notice BankAccount$Money.class when compiled
 	private class Money {
 		private long dollars;
 		private int cents;
